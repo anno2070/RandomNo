@@ -8,6 +8,8 @@ Build 2.01 beta 4:
     độ phân giải màn hình.
   - Bộ cài đăt Standalone.
 	  Thuận tiện hơn khi cài đặt chương trình.
+  - Thêm changelog các phiên bản trong cửa sổ
+    "Có gì mới".
 
   Các lỗi đã biết:
   - Chế độ Tùy chọn chưa hoàn chỉnh.

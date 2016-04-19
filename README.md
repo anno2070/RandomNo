@@ -1,14 +1,14 @@
 # RandomNo
 Phần mềm Random Number cho trường THPT Chuyên Bến Tre
 
-#Changelog:
+#Changelog
 
 Build 2.01 beta 4:
   - Sửa lỗi kích thước cửa sổ khi thay đổi 
     độ phân giải màn hình.
   - Bộ cài đăt Standalone.
 	  Thuận tiện hơn khi cài đặt chương trình.
-  
+
   Các lỗi đã biết:
   - Chế độ Tùy chọn chưa hoàn chỉnh.
   - Vẫn còn tồn tại lôi về kích thước cửa sổ

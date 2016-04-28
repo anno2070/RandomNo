@@ -4,7 +4,7 @@ Phần mềm Random Number cho trường THPT Chuyên Bến Tre
 #Changelog
 
 Build 2.01 beta 5:
-  - Thêm ngôn ngữ Tiếng Anh(Tải thêm).
+  - Thêm ngôn ngữ Tiếng Anh.
   - Thêm phiên bản rút gọn, lược bỏ phần loading
     và intro (Lựa chọn khi cài đặt).
   - Giao diện thay đổi ít.

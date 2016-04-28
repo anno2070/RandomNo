@@ -3,6 +3,15 @@ Phần mềm Random Number cho trường THPT Chuyên Bến Tre
 
 #Changelog
 
+Build 2.01 beta 5:
+  - Thêm ngôn ngữ Tiếng Anh, Pháp (Tải thêm).
+  - Thêm phiên bản rút gọn, lược bỏ phần loading
+    và intro (Lựa chọn khi cài đặt).
+  - Giao diện thay đổi ít.
+  
+  Các lỗi đã biết:
+  - Chế độ Tùy chọn chưa hoàn chỉnh.
+  
 Build 2.01 beta 4:
   - Sửa lỗi kích thước cửa sổ khi thay đổi 
     độ phân giải màn hình.
@@ -13,7 +22,7 @@ Build 2.01 beta 4:
 
   Các lỗi đã biết:
   - Chế độ Tùy chọn chưa hoàn chỉnh.
-  - Vẫn còn tồn tại lôi về kích thước cửa sổ
+  - Vẫn còn tồn tại lỗi về kích thước cửa sổ
     (cần test)
 	
 Build 2.01 beta 3:

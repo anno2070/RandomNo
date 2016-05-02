@@ -3,6 +3,15 @@ Phần mềm Random Number cho trường THPT Chuyên Bến Tre
 
 #Changelog
 
+Build 2.01 beta 6:
+  - Sửa: Lỗi giao diện của chế độ tiếng Anh ở độ 
+  phân giải 1024x768 đã được sửa.
+  - Chế độ "Tùy chọn" hoàn thành.
+  - Các tên môn được viết tắt trong độ phân giải
+  1024x768.
+  
+  Các lỗi đã biết: Cần test.
+	
 Build 2.01 beta 5:
   - Thêm ngôn ngữ Tiếng Anh.
   - Thêm phiên bản rút gọn, lược bỏ phần loading

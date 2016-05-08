@@ -3,6 +3,15 @@ Phần mềm Random Number cho trường THPT Chuyên Bến Tre
 
 #Changelog
 
+Build 2.01 beta 7:
+  - Thêm chức năng chọn nhanh trên các ô môn học.
+  - Tên các môn có sự thay đổi trong độ phân giải
+  1024x768 do chức năng chọn nhanh.
+  - Loại bỏ hình loading.
+  - Sửa lỗi và cải thiện tính ổn định.
+  
+  Các lỗi đã biết: Cần test.
+
 Build 2.01 beta 6:
   - Sửa: Lỗi giao diện của chế độ tiếng Anh ở độ 
   phân giải 1024x768 đã được sửa.

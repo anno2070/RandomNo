@@ -1,7 +1,7 @@
 # RandomNo
 Phần mềm Random Number cho trường THPT Chuyên Bến Tre
 
-#Release IS COMING..
+#Release IS COMING...
 
 
 #Changelog

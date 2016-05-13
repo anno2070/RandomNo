@@ -6,6 +6,14 @@ Phần mềm Random Number cho trường THPT Chuyên Bến Tre
 
 #Changelog
 
+Build 2.01 beta 8:
+  - Thêm chức năng đặt thời gian.
+  - Thêm hộp kiểm chọn theo khối trong chế độ Tùy 
+  chọn.
+  - Sửa lỗi và cải thiện tính ổn định.
+  
+  Các lỗi đã biết: Cần test.
+	
 Build 2.01 beta 7:
   - Thêm chức năng chọn nhanh trên các ô môn học.
   - Tên các môn có sự thay đổi trong độ phân giải
